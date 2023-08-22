@@ -1,2 +1,2 @@
 # FishSignals
-Using signals classification of fish. 
+Using signals classification of fish using unsupervised learning. 
