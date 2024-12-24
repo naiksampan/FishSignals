@@ -18,16 +18,8 @@ The project utilizes signal data representing fish characteristics and applies u
 ```
 fish-classification/
 │
-├── data/                      # Folder containing signal data
-├── notebooks/                 # Jupyter notebooks for step-by-step implementation
-│   ├── pca_analysis.ipynb     # PCA analysis and visualization
-│   ├── kmeans_clustering.ipynb# K-Means clustering implementation
-│
-├── src/                       # Source files for reproducibility
-│   ├── preprocessing.py       # Preprocessing and data cleaning
-│   ├── pca.py                 # PCA implementation
-│   ├── kmeans.py              # K-Means clustering logic
-│
+├── data/                      # Folder containing signal data                
+│   fishClasification.ipynb    # K-Means clustering implementation. Jupyter notebooks for step-by-step implementation
 ├── requirements.txt           # Dependencies for the project
 ├── README.md                  # Project documentation
 └── LICENSE                    # License information
@@ -47,7 +39,7 @@ fish-classification/
    ```
 
 3. **Run the Notebooks**:
-   - Use `kmeans_clustering.ipynb` for PCA analysis and visualization and K-Means clustering and results.
+   - Use `fishClasification.ipynb` for PCA analysis and visualization and K-Means clustering and results.
 
 4. **Analyze Results**:
    - Check the visualizations for group separations and evaluate clustering quality.
@@ -74,6 +66,3 @@ Contributions are welcome! Fork the repository, make your improvements, and subm
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-
-Let me know if you'd like further customization or additional details!
