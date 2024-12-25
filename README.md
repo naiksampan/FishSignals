@@ -29,8 +29,8 @@ fish-classification/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fish-classification.git
-   cd fish-classification
+   git clone https://github.com/yourusername/fishSignals.git
+   cd fishSignals
    ```
 
 2. **Install Dependencies**:
