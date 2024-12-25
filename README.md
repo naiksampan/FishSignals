@@ -58,6 +58,9 @@ fish-classification/
 - PCA reduces signal data dimensionality, enabling effective clustering.
 - K-Means groups fish based on distinct signal patterns, providing meaningful classifications.
 
+  ![3Dplot](image.png)
+  ![Confusion Matrix](image1.png)
+
 ## Contributions
 
 Contributions are welcome! Fork the repository, make your improvements, and submit a pull request.
